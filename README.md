@@ -34,7 +34,9 @@ CC0 (public domain) or Apache-2 at your choice. In simple words, do whatever you
 In the future I might move the mod to GPLv3, but now it's only one script, so whatever.
 
 # Get in touch
-You can leave feedback on the forum!
+You can leave feedback on the forum! https://wildfiregames.com/forum/topic/106644-dark-mode/
+
+Git: https://github.com/vgaming/0ad-dark-mode
 
 By the way, friendly "Hi" to the "Abstract GUI" mod here: https://wildfiregames.com/forum/topic/106438-abstractgui-mod-by-yekaterina/  
 I haven't actually tried the add-on yet (no clue if 0ad is 100% secure for trying out various mods anyway?),
